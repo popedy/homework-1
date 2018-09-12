@@ -25,9 +25,10 @@ Im Rahmen der Analyseanforderung hat man mit dem Kunden folgendes Wireframe ausg
 
 
 ## Git-Repository
-Die Testdateien sind per git erreichbar
+Die Testdateien sind per git erreichbar: https://github.com/treskon/homework-1
 
-
+## Abnahme
+Das Repository ist zu forken und dann im privaten Space zu entwickeln. Die Aufgabe ist dann abgeschlossen wenn die Entwicklungsdateien wieder in git hochgeladen sind. Die Abnahmekritieren sind unterhalb in den User-Stories als User-Acceptance-Tests (UAT) definiert...
 
 ## User-Stories
 ### Dokumentenvorschau
