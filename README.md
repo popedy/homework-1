@@ -12,7 +12,7 @@ Das Tool soll als Desktop-Applikation entwickelt werden und auf Windows-Arbeitsp
 
 Im Rahmen der Analyseanforderung hat man mit dem Kunden folgendes Wireframe ausgearbeitet:
 
-![Wireframe für Prüfprogramm](wireframe.png "Wireframe")
+![picture](wireframe.PNG "Wireframe")
 
 ## Grundlegende Überlegungen
 * Das Prüfprogramm soll ohne Installer auskommen und so wenig Abhängigkeiten zu Fremdmodulen wie möglich haben
