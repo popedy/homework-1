@@ -1,0 +1,64 @@
+D:\Projects\VAT Validator\VAT Validator\obj\Debug\VAT Validator.csprojAssemblyReference.cache
+D:\Projects\VAT Validator\VAT Validator\obj\Debug\VAT_Validator.Form1.resources
+D:\Projects\VAT Validator\VAT Validator\obj\Debug\VAT_Validator.Properties.Resources.resources
+D:\Projects\VAT Validator\VAT Validator\obj\Debug\VAT Validator.csproj.GenerateResource.cache
+D:\Projects\VAT Validator\VAT Validator\obj\Debug\VAT Validator.csproj.CoreCompileInputs.cache
+D:\Projects\VAT Validator\VAT Validator\bin\Debug\VAT Validator.exe.config
+D:\Projects\VAT Validator\VAT Validator\bin\Debug\VAT Validator.exe
+D:\Projects\VAT Validator\VAT Validator\bin\Debug\VAT Validator.pdb
+D:\Projects\VAT Validator\VAT Validator\obj\Debug\VAT Validator.exe
+D:\Projects\VAT Validator\VAT Validator\obj\Debug\VAT Validator.pdb
+D:\Projects\VAT Validator\VAT Validator\bin\Debug\Interop.AcroPDFLib.dll
+D:\Projects\VAT Validator\VAT Validator\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Projects\VAT Validator\VAT Validator\obj\Debug\Interop.AcroPDFLib.dll
+D:\Projects\VAT Validator\VAT Validator\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Projects\VAT Validator\VAT Validator\obj\Debug\VAT Validator.csproj.ResolveComReference.cache
+D:\Projects\VAT V1.0\VAT Validator\VAT Validator\bin\Debug\VAT Validator.exe.config
+D:\Projects\VAT V1.0\VAT Validator\VAT Validator\bin\Debug\VAT Validator.exe
+D:\Projects\VAT V1.0\VAT Validator\VAT Validator\bin\Debug\VAT Validator.pdb
+D:\Projects\VAT V1.0\VAT Validator\VAT Validator\bin\Debug\Interop.AcroPDFLib.dll
+D:\Projects\VAT V1.0\VAT Validator\VAT Validator\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Projects\VAT V1.0\VAT Validator\VAT Validator\obj\Debug\VAT Validator.csprojAssemblyReference.cache
+D:\Projects\VAT V1.0\VAT Validator\VAT Validator\obj\Debug\Interop.AcroPDFLib.dll
+D:\Projects\VAT V1.0\VAT Validator\VAT Validator\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Projects\VAT V1.0\VAT Validator\VAT Validator\obj\Debug\VAT Validator.csproj.ResolveComReference.cache
+D:\Projects\VAT V1.0\VAT Validator\VAT Validator\obj\Debug\VAT_Validator.Form1.resources
+D:\Projects\VAT V1.0\VAT Validator\VAT Validator\obj\Debug\VAT_Validator.Properties.Resources.resources
+D:\Projects\VAT V1.0\VAT Validator\VAT Validator\obj\Debug\VAT Validator.csproj.GenerateResource.cache
+D:\Projects\VAT V1.0\VAT Validator\VAT Validator\obj\Debug\VAT Validator.csproj.CoreCompileInputs.cache
+D:\Projects\VAT V1.0\VAT Validator\VAT Validator\obj\Debug\VAT Validator.exe
+D:\Projects\VAT V1.0\VAT Validator\VAT Validator\obj\Debug\VAT Validator.pdb
+C:\Users\Mihai-Eduard\Desktop\VAT V2.0\VAT Validator\VAT Validator\bin\Debug\VAT Validator.exe.config
+C:\Users\Mihai-Eduard\Desktop\VAT V2.0\VAT Validator\VAT Validator\bin\Debug\VAT Validator.exe
+C:\Users\Mihai-Eduard\Desktop\VAT V2.0\VAT Validator\VAT Validator\bin\Debug\VAT Validator.pdb
+C:\Users\Mihai-Eduard\Desktop\VAT V2.0\VAT Validator\VAT Validator\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Mihai-Eduard\Desktop\VAT V2.0\VAT Validator\VAT Validator\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Mihai-Eduard\Desktop\VAT V2.0\VAT Validator\VAT Validator\obj\Debug\VAT Validator.csprojAssemblyReference.cache
+C:\Users\Mihai-Eduard\Desktop\VAT V2.0\VAT Validator\VAT Validator\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Mihai-Eduard\Desktop\VAT V2.0\VAT Validator\VAT Validator\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Mihai-Eduard\Desktop\VAT V2.0\VAT Validator\VAT Validator\obj\Debug\VAT Validator.csproj.ResolveComReference.cache
+C:\Users\Mihai-Eduard\Desktop\VAT V2.0\VAT Validator\VAT Validator\obj\Debug\VAT_Validator.VAT_Validator.resources
+C:\Users\Mihai-Eduard\Desktop\VAT V2.0\VAT Validator\VAT Validator\obj\Debug\VAT_Validator.Properties.Resources.resources
+C:\Users\Mihai-Eduard\Desktop\VAT V2.0\VAT Validator\VAT Validator\obj\Debug\VAT Validator.csproj.GenerateResource.cache
+C:\Users\Mihai-Eduard\Desktop\VAT V2.0\VAT Validator\VAT Validator\obj\Debug\VAT Validator.csproj.CoreCompileInputs.cache
+C:\Users\Mihai-Eduard\Desktop\VAT V2.0\VAT Validator\VAT Validator\obj\Debug\VAT Validator.exe
+C:\Users\Mihai-Eduard\Desktop\VAT V2.0\VAT Validator\VAT Validator\obj\Debug\VAT Validator.pdb
+C:\Users\Mihai-Eduard\Desktop\VAT V2.0\VAT Validator\VAT Validator\bin\Debug\itextsharp.dll
+C:\Users\Mihai-Eduard\Desktop\VAT V2.0\VAT Validator\VAT Validator\obj\Debug\VAT Validator.csproj.CopyComplete
+C:\Users\Mihai-Eduard\Desktop\VAT Versuch\VAT Validator\VAT Validator\bin\Debug\VAT Validator.exe.config
+C:\Users\Mihai-Eduard\Desktop\VAT Versuch\VAT Validator\VAT Validator\bin\Debug\VAT Validator.exe
+C:\Users\Mihai-Eduard\Desktop\VAT Versuch\VAT Validator\VAT Validator\bin\Debug\VAT Validator.pdb
+C:\Users\Mihai-Eduard\Desktop\VAT Versuch\VAT Validator\VAT Validator\bin\Debug\itextsharp.dll
+C:\Users\Mihai-Eduard\Desktop\VAT Versuch\VAT Validator\VAT Validator\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Mihai-Eduard\Desktop\VAT Versuch\VAT Validator\VAT Validator\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Mihai-Eduard\Desktop\VAT Versuch\VAT Validator\VAT Validator\obj\Debug\VAT Validator.csprojAssemblyReference.cache
+C:\Users\Mihai-Eduard\Desktop\VAT Versuch\VAT Validator\VAT Validator\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Mihai-Eduard\Desktop\VAT Versuch\VAT Validator\VAT Validator\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Mihai-Eduard\Desktop\VAT Versuch\VAT Validator\VAT Validator\obj\Debug\VAT Validator.csproj.ResolveComReference.cache
+C:\Users\Mihai-Eduard\Desktop\VAT Versuch\VAT Validator\VAT Validator\obj\Debug\VAT_Validator.VAT_Validator.resources
+C:\Users\Mihai-Eduard\Desktop\VAT Versuch\VAT Validator\VAT Validator\obj\Debug\VAT_Validator.Properties.Resources.resources
+C:\Users\Mihai-Eduard\Desktop\VAT Versuch\VAT Validator\VAT Validator\obj\Debug\VAT Validator.csproj.GenerateResource.cache
+C:\Users\Mihai-Eduard\Desktop\VAT Versuch\VAT Validator\VAT Validator\obj\Debug\VAT Validator.csproj.CoreCompileInputs.cache
+C:\Users\Mihai-Eduard\Desktop\VAT Versuch\VAT Validator\VAT Validator\obj\Debug\VAT Validator.csproj.CopyComplete
+C:\Users\Mihai-Eduard\Desktop\VAT Versuch\VAT Validator\VAT Validator\obj\Debug\VAT Validator.exe
+C:\Users\Mihai-Eduard\Desktop\VAT Versuch\VAT Validator\VAT Validator\obj\Debug\VAT Validator.pdb
